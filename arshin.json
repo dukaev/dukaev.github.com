@@ -1,0 +1,84 @@
+{
+  "title": "Аршин мал алан",
+  "tags": [
+    {
+      "class": "comedy",
+      "name": "комедия"
+    },
+    {
+      "class": "for_children",
+      "name": "для детей"
+    }
+  ],
+  "cover": "alan_cover",
+  "avatar": "../images/gallerey/arshin_s.jpg",
+  "photo": [
+    "images/gallerey/alan.jpg",
+    "images/gallerey/alancover.jpg",
+    "images/gallerey/alank.jpg"
+  ],
+  "book": [
+    {
+      "time": "17:40",
+      "left": "через 2 дня",
+      "date": [
+        "1",
+        "января"
+      ],
+      "date_of_week": "вторник"
+    },
+    {
+      "time": "12:00",
+      "left": "через 11 дней",
+      "date": [
+        "10",
+        "января"
+      ],
+      "date_of_week": "среда"
+    }
+  ],
+  "description": "Сюжет музыкальной комедии был взят Узеиром Гаджибековым из жизни. На Востоке девушки выходили замуж, как правило, по воле родителей. Жених в большинстве случаев тоже видел свою невесту только после свадьбы. Новое поколение молодых людей мечтает создать семью, основанную на любви. Молодой купец Гаскар решает жениться и вопреки закону отцов пытается увидеть свою будущую спутницу жизни еще до свадьбы. Характерный выкрик уличных продавцов тканями «Аршин мал алан» стал названием музыкальной комедии.",
+  "actor": [
+    {
+      "avatar": "images/actors/nikita.jpg",
+      "name": "Дмитрий Еговор",
+      "position": "актёр"
+    },
+    {
+      "avatar": "images/actors/evgen.jpg",
+      "name": "Евгений Баженов",
+      "position": "актёр"
+    },
+    {
+      "avatar": "images/actors/ivan.jpg",
+      "name": "Пётр Афишев",
+      "position": "актёр"
+    },
+    {
+      "avatar": "images/actors/ruslan.jpg",
+      "name": "Максим Кейсов",
+      "position": "актёр"
+    }
+  ],
+  "maps": {
+    "text": "",
+    "google_map": ""
+  },
+  "contacs": {
+    "tellphone": "+7965"
+  },
+  "additionally": [
+    {
+      "cover": "",
+      "text": ""
+    },
+    {
+      "cover": "",
+      "text": ""
+    },
+    {
+      "cover": "",
+      "text": ""
+    }
+  ]
+}
