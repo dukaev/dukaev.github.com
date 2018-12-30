@@ -1,0 +1,72 @@
+
+    {{
+      "key": "arsin",
+      "url": "arsin",
+      "cover": "alan_cover",
+      "title": "Аршин Мал Алан",
+      "tags": [
+        {
+          "class": "comedy",
+          "name": "комедия"
+        },
+        {
+          "class": "for_children",
+          "name": "для детей"
+        }
+      ],
+      "background": ""
+    },
+    {
+      "key": "prins",
+      "url": "prins",
+      "cover": "wolf_cover",
+
+      "title": "Волки и овцы",
+      "tags": [
+        {
+          "class": "drama",
+          "name": "драма"
+        },
+        {
+          "class": "for_student",
+          "name": "для студентов"
+        }
+      ],
+      "background": ""
+    },
+    {
+      "key": "arsin",
+      "url": "arsin",
+      "cover": "alan_cover",
+      "title": "Аршин Мал Алан",
+      "tags": [
+        {
+          "class": "comedy",
+          "name": "комедия"
+        },
+        {
+          "class": "for_children",
+          "name": "для детей"
+        }
+      ],
+      "background": ""
+    },
+    {
+      "key": "prins",
+      "url": "prins",
+      "cover": "wolf_cover",
+
+      "title": "Волки и овцы",
+      "tags": [
+        {
+          "class": "drama",
+          "name": "драма"
+        },
+        {
+          "class": "for_student",
+          "name": "для студентов"
+        }
+      ],
+      "background": ""
+    }
+  }
