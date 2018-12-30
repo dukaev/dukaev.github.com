@@ -1,5 +1,5 @@
 
-    {{
+    [{
       "key": "arsin",
       "url": "arsin",
       "cover": "alan_cover",
@@ -70,3 +70,4 @@
       "background": ""
     }
   }
+     ]
